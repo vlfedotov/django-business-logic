@@ -8,6 +8,7 @@ INSTALLED_APPS += [
     'bootstrap3',
 
     'sites.dev.books',
+    'sites.dev.eosago',
 ]
 
 ROOT_URLCONF = 'sites.dev.urls'
